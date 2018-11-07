@@ -1,4 +1,4 @@
-# Creating the Repo with a protected Master branch
+### Creating the Repo with a protected Master branch
 1. [Create the branch **with a README**](https://raw.githubusercontent.com/jdvera/protectedExample/master/1.PNG)
 2. [Click Settings on the top row](https://raw.githubusercontent.com/jdvera/protectedExample/master/2.PNG)
 3. [Click Branches on the sidebar](https://raw.githubusercontent.com/jdvera/protectedExample/master/3.PNG)
